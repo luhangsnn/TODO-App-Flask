@@ -1,4 +1,4 @@
-# Project-3
+# Colby CS 321 Project-3
 
 Yixuan Qiu & Luhang Sun
 
